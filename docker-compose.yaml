@@ -28,7 +28,6 @@ services:
 
 volumes:
   n8n_data:
-  ollama:
 
 networks:
   n8n-network:
